@@ -15,8 +15,9 @@ Whitted-Style ray tracer built for the [UU Graphics course](https://www.cs.uu.nl
 * 2D top down debug view showing primary and secondary rays.
 
 ## Controls
-| W/A/S/D    | Move camera     |
+| Control   | Action     |
 |------------|-----------------|
+| W/A/S/D    | Move camera     |
 | Arrow Keys | Rotation Camera |
 | Q/E        | Zoom in/out     |
 
