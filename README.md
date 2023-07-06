@@ -18,6 +18,6 @@ Whitted-Style ray tracer built for the [UU Graphics course](https://www.cs.uu.nl
 | Control   | Action     |
 |------------|-----------------|
 | W/A/S/D    | Move camera     |
-| Arrow Keys | Rotation Camera |
+| Arrow Keys | Rotate Camera |
 | Q/E        | Zoom in/out     |
 
